@@ -8,3 +8,12 @@ evaluator-preprocess/parameter-files*
 *.profile
 blas
 *.pdf
+
+# vim
+*.swp
+
+# compiler command files
+compile_commands.json
+
+# cache
+*.cache

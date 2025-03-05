@@ -2,7 +2,7 @@
 set -u
 set -e
 
-source env.sh ""
+source ${HYQUAS_ROOT}/scripts/env.sh ""
 
 mkdir -p $HYQUAS_ROOT/build
 cd $HYQUAS_ROOT/build
